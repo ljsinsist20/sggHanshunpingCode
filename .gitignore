@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/guigu-common/target/
+/service-base/target/
+/service-core/target/
+/srb_log/
+/srb_log/core/
